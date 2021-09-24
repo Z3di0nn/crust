@@ -5,7 +5,7 @@ Crust is a voice assistant project planned to work with linux systems.
 
 It is a project currently under development.
 
-<h2>Installing required lFuture release patch notesibraries</h2>
+<h2>Installing required libraries</h2>
 
 ```
 pip3 install requests
@@ -16,3 +16,5 @@ pip3 install time
 pip3 install sys
 ```
 <h1>Future release patch notes</h1>
+**-** The microphone perception area will be expanded
+**-** 15 custom commands will be added, including network scanning
