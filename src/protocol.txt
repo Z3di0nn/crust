@@ -1,0 +1,38 @@
+İMHA PROTOKOLÜ:
+	eVo'nun kendini imha etmesi ve hiçbir iz bırakmaması.
+	
+ŞİFRELEME PROTOKOLÜ:
+	Önem arz eden dosyaların şifrelenmesi ve crypter'ın
+	gizlenmesini gerçekleştiren protokol.
+
+ERİŞİM PROTOKOLÜ:
+	Kullanıcının gerekli yetkilerinin olup olmadığının
+	test edilmesi ve güvenlik için dagz karmalarının  
+	kullanılması için yazılan bir protokol.
+	
+
+SALDIRI PROTOKOLÜ:
+	Hedeflerin çoğunun pentest ortamında taranması ve
+	çıktıların belirli dosyalara kayıt edilmesi.
+
+TELEGRAM PROTOKOLÜ:
+	Daha önce hacklenmiş telegram kullanıcılarına dair
+	bulunan verilerin silinmesi ve telegram uygulama-
+	sına ait hiçbir veri bulunamaması.
+	
+SAVUNMA PROTOKOLÜ:
+	Olası bir tehdite karşı verilerin toplanan kablosuz
+	ağ verilerinin analiz edildilmesi ve daha sonra dış
+	dünya ile olan tüm iletişimin kesilmesi.
+
+NOT PROTOKOLÜ:
+	Daha önce alınmış notların silinmesi 
+
+YENİDEN BAŞLATMA PROTOKOLÜ:
+	KUllanılan linux sistemin yeniden başla-
+	tılması
+	
+	
+	
+KOD 1610:
+	395602836302509702294602180512003402193702956402573502509702193702294702193702946302573502095802573502830402180512836302376402294602509702180512100095802180512286402193702395502573502509702154602193702180512035602207902735302207902509702193702509702180512735302294602737902836302735302294602180512933602573502830402573502509702180512836302376402294602509702294602509702180512035602836302735302294602935602735302836302509702095802836302737902294602180512376402836302180512035602207902509702193702180512207902395602946302207902509702180512206702193702935602836302933602836302003402180512836302154602294602735302095802836302737902294602
