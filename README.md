@@ -86,24 +86,5 @@ wavfile.close()
 
 I am Z3di0nn, I am 16 years old, I am a 10th grade student at Kemal Pireci Anatolian High School. My purpose in life is to contribute to my country in the field of cyber security and programming in the future. And I have to lay the foundations for my future career so I try to devote the necessary time to classes and cybersecurity.
 
-In the future, I will put a virus that I have developed on github, my purpose here will be to look at the source codes and see how simple android devices are hacked.
-
 **I will put a virus that I developed on github in the future, my purpose here will be for you to look at the source codes and see how simple android devices are hacked.**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
