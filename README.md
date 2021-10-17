@@ -11,7 +11,7 @@ It is a project currently under development.
 pip3 install requests
 pip3 install gTTS
 pip3 install pyautogui
-pip3 install speech_recognition
+pip3 install SpeechRecognition
 pip3 install time
 pip3 install sys
 ```
