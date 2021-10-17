@@ -14,6 +14,9 @@ pip3 install pyautogui
 pip3 install SpeechRecognition
 pip3 install time
 pip3 install sys
+pip3 install wave
+sudo apt-get install libasound-dev portaudio19-dev libportaudio2 libportaudiocpp0
+pip3 install pyaudio
 ```
 <h1>Future release patch notes</h1>
 
