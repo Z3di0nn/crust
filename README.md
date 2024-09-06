@@ -85,9 +85,5 @@ wavfile.close()
 
 **As you can see in the code above, the system is actually quite simple, your voice is recorded every 3.7 seconds, of course, this recording is 3.7 seconds long, so when one is full, a new one is recorded and written to a single audio file. will run the assistant.**
 
-<h1>Who am I</h1>
 
-I am Z3di0nn, I am 16 years old, I am a 10th grade student at Kemal Pireci Anatolian High School. My purpose in life is to contribute to my country in the field of cyber security and programming in the future. And I have to lay the foundations for my future career so I try to devote the necessary time to classes and cybersecurity.
-
-**I will put a virus that I developed on github in the future, my purpose here will be for you to look at the source codes and see how simple android devices are hacked.**
 
